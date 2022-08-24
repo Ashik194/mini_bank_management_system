@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661326625 source:c:\users\antora\documents\ashik\project_for_gub\main.c
+	<stdio.h>
+	<stdlib.h>
+
